@@ -1,5 +1,5 @@
 <div>
-    <img src="img/_SV .png" width="200px" />
+    <img src="img/svLinkedINBanner.jpg"  alt="< SV />"/>
 </div>
  <h2>About Me</h2>
  Hi, I’m @stephanie-viveros. I’m based out of Chicago, IL. Please feel free to contact me at stephanie.viveros.dev@gmail.com or ‪(312) 883-3708‬.
@@ -16,6 +16,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+
+<!-- ---
+<img src="img/_SV .png" alt="Stephanie Viveros Full-stack Developer" width="200" height="200" /> -->
 
 
 
