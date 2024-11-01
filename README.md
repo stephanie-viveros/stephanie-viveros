@@ -1,8 +1,6 @@
 <div>
-    <img src="img/svLinkedINBanner.jpg"  alt="< SV />"/>
+    <img src="img/stephanie-viveros-contact.png"  alt="< SV />"/>
 </div>
- <h2>About Me</h2>
- Hi, I’m @stephanie-viveros. I’m based out of Chicago, IL. Please feel free to contact me at stephanie.viveros.dev@gmail.com or ‪(312) 883-3708‬.
 
  <h2>Tech</h2>
 <p align="left">
